@@ -10,6 +10,7 @@ body {
 }
 .container {
   background-color: white;
+  width: 100%;
 }
 main {
   padding: 1rem;
@@ -74,6 +75,9 @@ main > section:first-child img {
   background-color: #f04c2f;
   color: white;
   text-align: center;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  width: calc(100% +2rem);
 }
 .box-orange h2 {
   color: white;
