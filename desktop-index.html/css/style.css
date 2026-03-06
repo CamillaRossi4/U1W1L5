@@ -156,3 +156,6 @@ main > section > h5 {
 footer > address > a > i {
   margin-right: 0.5rem;
 }
+.a-location {
+  text-decoration: none;
+}
